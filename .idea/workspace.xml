@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="536ebe6f-c3a3-41c0-9cba-143e2f8a4eec" name="Default Changelist" comment="Initially commit for the project. add urls.py and find the sum, mean, mode value of the numberic using library">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="536ebe6f-c3a3-41c0-9cba-143e2f8a4eec" name="Default Changelist" comment="add the second data from the task.">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practical_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/practical_api/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597587080938</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add the second data from the task.">
+      <created>1597593234680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597593234680</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,16 +92,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initially commit for the project. add urls.py and find the sum, mean, mode value of the numberic using library" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initially commit for the project. add urls.py and find the sum, mean, mode value of the numberic using library" />
+    <MESSAGE value="add the second data from the task." />
+    <option name="LAST_COMMIT_MESSAGE" value="add the second data from the task." />
   </component>
   <component name="WindowStateProjectService">
     <state x="777" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597587035890">
       <screen x="69" y="27" width="1851" height="1053" />
     </state>
     <state x="777" y="310" width="424" height="484" key="FileChooserDialogImpl/69.27.1851.1053@69.27.1851.1053" timestamp="1597587035890" />
-    <state x="589" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597587082742">
+    <state x="589" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597593289263">
       <screen x="69" y="27" width="1851" height="1053" />
     </state>
-    <state x="589" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/69.27.1851.1053@69.27.1851.1053" timestamp="1597587082742" />
+    <state x="589" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/69.27.1851.1053@69.27.1851.1053" timestamp="1597593289263" />
   </component>
 </project>
